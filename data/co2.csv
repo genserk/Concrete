@@ -1,0 +1,8 @@
+ingredient,lower_bound,upper_bound
+cement,.82,.83
+slag,.019,.07
+ash,-.0018,.01
+water,.00025,.0003
+superplastic,.01,.72
+coarseagg,.0062,.041
+fineagg,.0025,.014
