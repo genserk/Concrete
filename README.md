@@ -27,6 +27,8 @@ From Kaggle, Civil Engineering: Cement Manufacturing Dataset
 
 
 ### How does it work ?
--Step1: Clone the repository and install requirements as listed in the requirements.txt file.
+-Step 1: Clone the repository and install requirements as listed in the requirements.txt file.
 
--Step2: Download datasets from https://www.kaggle.com/datasets/vinayakshanawad/cement-manufacturing-concrete-dataset, and add it to data folder
+-Step 2: Download datasets from https://www.kaggle.com/datasets/vinayakshanawad/cement-manufacturing-concrete-dataset, and add it to data folder
+
+-Step 3: See Concrete.ipynb to see the results or run the study
