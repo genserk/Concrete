@@ -1,8 +1,9 @@
-# Eco-Concrete
+# A Concrete Truth: Predicting concrete strength and carbon footprint
+### Daniel Freese and Konrad Genser
 
 The Erdos Institute Spring 2023 Bootcamp Project
 
-### Projectgit 
+### Project
 
 The problem we wish to address is the carbon footprint of concrete. The main source of carbon is the cement so our goal is to find a low cement mixture that still meets certain strength thresholds.
 
